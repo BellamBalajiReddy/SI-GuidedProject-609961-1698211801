@@ -1,0 +1,1 @@
+Developed a machine learning-based system to classify fetal health into Normal, Abnormal, or Pathogenic. The project features a Flask-based web application for real-time predictions, data visualization, and personalized health recommendations. It aims to assist healthcare professionals in early detection and better monitoring of fetal conditions.
